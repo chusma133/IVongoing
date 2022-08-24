@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/IVongoing/static/css/main.b70980da.css",
+    "main.js": "/IVongoing/static/js/main.8802613a.js",
+    "static/js/377.cbfca12c.chunk.js": "/IVongoing/static/js/377.cbfca12c.chunk.js",
+    "static/media/slide-3.jpg": "/IVongoing/static/media/slide-3.36b832b4604cae7473c0.jpg",
+    "static/media/interior-1.jpg": "/IVongoing/static/media/interior-1.c2a07f5df0349e72d2dd.jpg",
+    "static/media/slide-2.jpg": "/IVongoing/static/media/slide-2.d46754e9701191480526.jpg",
+    "static/media/slide-1.jpg": "/IVongoing/static/media/slide-1.00b8fbe7006495949120.jpg",
+    "static/media/kitchen-1.jpg": "/IVongoing/static/media/kitchen-1.ee4159072e551d962d42.jpg",
+    "static/media/house-4.jpg": "/IVongoing/static/media/house-4.2dbf6ada916385950a72.jpg",
+    "static/media/house-3.jpg": "/IVongoing/static/media/house-3.f5e316a168491545f2e9.jpg",
+    "static/media/house-5.jpg": "/IVongoing/static/media/house-5.eb923334b5f40edd0c4d.jpg",
+    "static/media/home-2.jpg": "/IVongoing/static/media/home-2.528c5cd82796230610cb.jpg",
+    "static/media/house-1.jpg": "/IVongoing/static/media/house-1.f7389d3cd79986428c93.jpg",
+    "static/media/home-1.jpg": "/IVongoing/static/media/home-1.24621aea6bc451564854.jpg",
+    "static/media/house-2.jpg": "/IVongoing/static/media/house-2.e85bba08ec69c7a30182.jpg",
+    "index.html": "/IVongoing/index.html",
+    "static/media/bars.svg": "/IVongoing/static/media/bars.3fb19b63796ae711108f54ceb8084047.svg",
+    "main.b70980da.css.map": "/IVongoing/static/css/main.b70980da.css.map",
+    "main.8802613a.js.map": "/IVongoing/static/js/main.8802613a.js.map",
+    "377.cbfca12c.chunk.js.map": "/IVongoing/static/js/377.cbfca12c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b70980da.css",
+    "static/js/main.8802613a.js"
+  ]
+}
